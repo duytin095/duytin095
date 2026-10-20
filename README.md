@@ -17,7 +17,7 @@ I'm a Frontend Developer passionate about building web applications.
   <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" width="48" alt="VS Code" />
 </p>
