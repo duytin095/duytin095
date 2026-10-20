@@ -1,6 +1,4 @@
-## Hi there
-
-I'm a Frontend Developer passionate about building web applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!;I'm+a+Frontend+Developer;Currently+working+with+Magento+2)](https://git.io/typing-svg)
 
 <h2>Languages and Tools</h2>
 
