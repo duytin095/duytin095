@@ -20,5 +20,5 @@ I'm a Frontend Developer passionate about building web applications.
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="48" alt="Magento" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="48" alt="Magento" style="background: black; border-radius: 10px;" />
 </p>
