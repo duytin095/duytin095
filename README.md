@@ -2,8 +2,23 @@
 
 I'm a Frontend Developer passionate about building web applications.
 
-## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,php,laravel,mysql,git,github,docker,vscode&perline=10)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="48" height="48" alt="Magento"/>
-    
+<h2>Languages and Tools</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg" width="48" alt="Magento" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
+</p>
