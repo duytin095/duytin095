@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there
 
 I'm a Frontend Developer passionate about building web applications.
-
 
 <h2>Languages and Tools</h2>
 
