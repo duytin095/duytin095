@@ -10,6 +10,7 @@ I'm a Frontend Developer passionate about building web applications.
   <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript" />
+  <img src="./magento.svg" width="48" alt="Magento" />
   <img src="https://skillicons.dev/icons?i=react" width="48" alt="React" />
   <img src="https://skillicons.dev/icons?i=vue" width="48" alt="Vue" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind" />
@@ -20,5 +21,4 @@ I'm a Frontend Developer passionate about building web applications.
   <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code" />
-  <img src="./magento.svg" width="48" alt="Magento" />
 </p>
